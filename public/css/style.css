@@ -1,0 +1,49 @@
+body {
+  /* background: PowderBlue; */
+  /* background-color: #69B578; */
+  background-image: url('https://www.visitscotland.com/wsimgs/visitscotland_34387337293-min_1420173447.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 50px;
+  margin-bottom: 50px;
+  position: fixed;
+  padding-left: 12%;
+}
+
+h2 {
+  font-family: 'Permanent Marker', cursive;
+}
+
+p {
+  font-family: 'Indie Flower', cursive;
+}
+
+#content {
+  padding-top: 100px;
+
+}
+
+#container div {
+  margin-top: 20px;
+  background: #C6D4FF;
+  background-color: rgba(60, 140, 60, 0.5);
+  padding:5px 15px;
+  width: 70%;
+  margin-left: 15%;
+  border: 2px solid grey;
+}
+
+#containter:hover {
+  background-color: salmon;
+}
+
+li {
+  color: white;
+}
